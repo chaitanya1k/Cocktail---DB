@@ -263,7 +263,7 @@ Cocktail
   font-size: 2rem;
 }
 .cocktail-footer p {
-  color: var(--darkGrey);
+  color: darkgreen;
   margin-bottom: 0.5rem;
 }
 /* 
